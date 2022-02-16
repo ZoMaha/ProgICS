@@ -1,0 +1,15 @@
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\bin\Debug\WPF Application.exe.config
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\bin\Debug\WPF Application.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\bin\Debug\WPF Application.pdb
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF Application.csproj.AssemblyReference.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\MainWindow.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\App.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF Application_MarkupCompile.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF Application_MarkupCompile.lref
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\MainWindow.baml
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF Application.g.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF_Application.Properties.Resources.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF Application.csproj.GenerateResource.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF Application.csproj.CoreCompileInputs.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF Application.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\WPF Application\WPF Application\obj\Debug\WPF Application.pdb

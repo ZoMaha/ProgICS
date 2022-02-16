@@ -1,0 +1,15 @@
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\bin\Debug\Param.exe.config
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\bin\Debug\Param.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\bin\Debug\Param.pdb
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param.csproj.AssemblyReference.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\MainWindow.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\App.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param_MarkupCompile.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param_MarkupCompile.lref
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\MainWindow.baml
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param.g.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param.Properties.Resources.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param.csproj.GenerateResource.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Param\Param\obj\Debug\Param.pdb

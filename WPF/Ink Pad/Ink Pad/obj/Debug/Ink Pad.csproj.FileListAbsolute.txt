@@ -1,0 +1,15 @@
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe.config
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\bin\Debug\Ink Pad.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\bin\Debug\Ink Pad.pdb
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.AssemblyReference.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\MainWindow.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\App.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.lref
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\MainWindow.baml
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.g.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.csproj.CoreCompileInputs.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Ink Pad\Ink Pad\obj\Debug\Ink Pad.pdb

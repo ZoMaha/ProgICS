@@ -1,0 +1,14 @@
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.exe.config
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.pdb
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\View\MainWindow.baml
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\View\MainWindow.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\App.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM_MarkupCompile.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.g.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.Properties.Resources.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.GenerateResource.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.CoreCompileInputs.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.pdb
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\bin\Debug\UserForms.exe.config
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\bin\Debug\UserForms.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\bin\Debug\UserForms.pdb
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\MainWindow.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\App.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\MainWindow.baml
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\UserForms.g.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\UserForms.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VS\WPF\UserForms\UserForms\obj\Debug\UserForms.pdb

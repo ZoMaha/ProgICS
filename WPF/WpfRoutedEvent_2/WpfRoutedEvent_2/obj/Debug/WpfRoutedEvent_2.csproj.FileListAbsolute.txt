@@ -1,0 +1,15 @@
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.exe.config
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.pdb
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.AssemblyReference.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\MainWindow.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\App.g.cs
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2_MarkupCompile.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2_MarkupCompile.lref
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\MainWindow.baml
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.g.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.Properties.Resources.resources
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.GenerateResource.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.CoreCompileInputs.cache
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.exe
+D:\OneDrive - ITMO UNIVERSITY\Disk D_Default\2. Lessons\4. Прог ИКС\VisualStudio\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.pdb
