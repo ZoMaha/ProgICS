@@ -1,0 +1,58 @@
+﻿@model MvcCreditApp1.Models.Credit
+
+@{
+    ViewBag.Title = "Удаление кредита";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Удаление кредита</h2>
+
+<h3>Вы уверены, что хотите удалить этот кредит?</h3>
+<div>
+    <h4>Кредит</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Head)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Head)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Period)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Period)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Procent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Procent)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Вернуться в список", "Index")
+        </div>
+    }
+</div>
