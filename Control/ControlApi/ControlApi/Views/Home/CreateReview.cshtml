@@ -1,0 +1,78 @@
+﻿@model ControlApi.Models.Review
+
+@{
+    ViewBag.Title = "Создание отзыва";
+}
+
+<h3>Существующие отзывы</h3>
+<table class = "table">
+    <tr>
+        <td><p>Тест ID</p></td>
+        <td><p>Оценка</p></td>
+        <td><p>Отзыв</p></td>
+        <td><p>Дата</p></td>
+    </tr>
+    @foreach (var rv in ViewBag.Reviews)
+            {
+                <tr>
+                    <td>
+                        @rv.TestId
+                    </td>
+                    <td>
+                        @rv.Grade
+                    </td>
+                    <td>
+                        @rv.TextReview
+                    </td>
+                    <td>
+                        @rv.ReviewDate
+                    </td>
+                </tr>
+            }
+</table>
+
+
+<h3>Создание отзыва</h3>
+<form method="post" action="">
+    <table class = "table">
+        <tr>
+            <td>Выбранный тест</p></td>
+            <td>
+                @foreach (var ts in ViewBag.Tests)
+                {
+                    if (ts.TestId == @ViewBag.TestID)
+                    {
+                        <p>@ts.Name</p>
+                    }
+                }
+                <input type="hidden" name="TestId" value="@ViewBag.TestID" />
+            </td>
+        </tr>
+
+        <tr>
+            <td><p>Введите текст отзыва</p></td>
+            <td><input type="text" name="TextReview"/></td>
+        </tr>
+        <tr>
+            <td><p>Оставьте оценку</p></td>
+            <td>
+                <select name="Grade">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Отправить" /></td>
+
+        </tr>
+    </table>
+</form>
+
+<div>
+    @Html.ActionLink("Вернуться на главную", "Index")
+</div>

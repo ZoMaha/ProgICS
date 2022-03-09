@@ -1,0 +1,43 @@
+﻿@model ControlApi.Models.Test
+
+@{
+    ViewBag.Title = "Детали теста";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Детали теста</h2>
+
+<div>
+    <h4>Тест</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Active)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Active)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Изменить", "Edit", new { id = Model.TestId }) 
+    |
+    @Html.ActionLink("Вернуться к списку", "Index")
+</p>

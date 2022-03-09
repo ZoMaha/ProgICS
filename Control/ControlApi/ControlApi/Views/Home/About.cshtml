@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+
+<h3>Все роли этого пользователя</h3> 
+@foreach (var c in @ViewBag.rol)
+{<li>@c</li>
+}

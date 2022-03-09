@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ControlApi.Models.Review>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Создать новый отзыв", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AuthorId)
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.TestId)*@
+            <p>Название теста</p>
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ReviewDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Grade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TextReview)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AuthorId)
+        </td>
+        <td>
+            @foreach (var t in ViewBag.Tests)
+            {
+                if (t.TestId == item.TestId)
+                {
+                    @*@Html.DisplayFor(modelItem => t.Name)*@
+                    <p>@t.Name</p>
+                }
+            }
+
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ReviewDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Grade)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TextReview)
+        </td>
+        <td>
+            @Html.ActionLink("Изменить", "Edit", new { id=item.ReviewId }) |
+            @Html.ActionLink("Детали", "Details", new { id=item.ReviewId }) |
+            @Html.ActionLink("Удалить", "Delete", new { id=item.ReviewId })
+        </td>
+    </tr>
+}
+
+</table>

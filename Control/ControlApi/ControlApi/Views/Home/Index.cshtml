@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Главная";
+}
+
+
+<h3>Тесты на сайте</h3>
+<table class = "table">
+    <tr>
+        <td>
+            <p>Название теста</p>
+        </td>
+        <td>
+            <p>Опсиание теста</p>
+        </td>
+        <td>
+            
+        </td>
+    </tr>
+</table>
+    @foreach (var test in ViewBag.Tests)
+    { 
+        <form method="get" action="">
+            <table class="table">
+                <tr>
+                    <td>
+                        @test.Name
+                        <input type="hidden" name="TestId" value="@test.TestId"/>
+                    </td>
+                    <td>@test.Description </td>
+                    <td>
+
+                        @Html.ActionLink("Оставить отзыв", "CreateReview", new { id = @test.TestId })
+
+                        @*<input type="submit" value="Оставить отзыв" />*@
+
+                        @*<a class="btn btn-default" href="/Home/CreateReview">
+            Оставить отзыв
+        </a>*@
+                    </td>
+                </tr>
+            </table>
+
+
+        </form>
+        
+    }
+
+
+
+
+<p>
+<a class="btn btn-default" href="/Home/CreateReview">
+    Оставить отзыв
+</a>
+</p>
